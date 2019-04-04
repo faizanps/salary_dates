@@ -1,0 +1,3 @@
+<?php
+    namespace UI;
+    include_once __DIR__.'/../controller/Salaries.php';
